@@ -1,17 +1,19 @@
 /* eslint-disable jsx-a11y/alt-text */
-import React, { Fragment } from "react";
+import React from "react";
 import Coaches from "../data/facebook_coaches.json";
 import { BACKEND_URL } from "../constants.js";
+import _ from "lodash";
 
 class GalleryItem extends React.Component {
   render() {
+    const unique_coach_list = _.uniqBy(Coaches, "name");
     return (
       <div className="bg-whitsmoke">
         <h1 className="text-center font-size pad-b-60">
           Facebook Coaches Gallery
         </h1>
         <div className="grid grid-col-26 grid-center-items">
-          {Coaches.map(data => {
+          {unique_coach_list.map(data => {
             return (
               <div className="">
                 <span className="main w-img">
