@@ -5,14 +5,13 @@ import { BACKEND_URL } from "../constants.js";
 
 class GalleryItem extends React.Component {
   render() {
-    const unique_coach_list = [...new Set(Coaches)];
     return (
       <div className="bg-whitsmoke">
         <h1 className="text-center font-size pad-b-60">
           Facebook Coaches Gallery
         </h1>
         <div className="grid grid-col-26 grid-center-items">
-          {unique_coach_list.map(data => {
+          {Coaches.map(data => {
             return (
               <div className="">
                 <span className="main w-img">
