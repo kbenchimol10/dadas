@@ -1,6 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './css/style.css';
-import App from './components/App';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./css/style.css";
+import GalleryItem from "./components/GalleryItem";
 
-ReactDOM.render(<App />, document.getElementById('#main'));
+ReactDOM.render(<GalleryItem />, document.getElementById("#main"));
