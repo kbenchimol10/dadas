@@ -413,20 +413,6 @@
     "head_shot_width": 400
   },
   {
-    "id": "d3d0a84d-e9c6-4bbe-a0c4-c02f94717f54",
-    "name": "Claudia Díaz",
-    "head_shot": "coach-head-shots/80ba93933c8c6c3b572b341e11979cf77375af0c/foto Claudia Díaz.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "57819158-1ae3-448e-89b8-84e2203ece0f",
-    "name": "Clara González",
-    "head_shot": "coach-head-shots/7c5e5c70b3ca615cb5366af1bb35a44dfcc89379/Foto Clara González.png",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
     "id": "d241386c-bf39-4623-805a-05dcf6a961a9",
     "name": "Amelia Correa-Ramos",
     "head_shot": "coach-head-shots/3ed9b28e5b9da24b643051e701dde190cce9135b/Amelia-Correa-Ramos-Trainer-GRI.jpg",
@@ -455,9 +441,9 @@
     "head_shot_width": 400
   },
   {
-    "id": "73c59d3d-f893-41e9-8edc-92aaa7c4ff0c",
-    "name": "Maja Porath",
-    "head_shot": "coach-head-shots/002c68707f85f30b665f77e37565a41a590493cd/Screen Shot 2018-11-23 at 15.16.40.png",
+    "id": "49ca4e22-5767-40bf-8ea2-48fc1ee56fdc",
+    "name": "Cindy Luna Hoffmann",
+    "head_shot": "coach-head-shots/6a163179a37c4429c68a73d753c69d2003a5af43/Cindy Iuna Hoffmann.jpeg",
     "head_shot_height": 400,
     "head_shot_width": 400
   },
@@ -476,9 +462,9 @@
     "head_shot_width": 400
   },
   {
-    "id": "3d696672-f46a-4a2c-a1ae-8157e48549a8",
-    "name": "Nicolas Maiwald",
-    "head_shot": "coach-head-shots/0a89524753b6842c8e6cd6a248ebb3e5e7453d1e/Screen Shot 2018-11-23 at 15.19.20.jpg",
+    "id": "ad7fff24-139f-485e-84af-9f5c8a7f20fa",
+    "name": "Claudia Gretschmann",
+    "head_shot": "coach-head-shots/336bcb8ce738146ead19263ab30c6acbaaf87d9d/Claudia Gretschmann.jpg",
     "head_shot_height": 400,
     "head_shot_width": 400
   },
@@ -493,90 +479,6 @@
     "id": "5b350221-eef7-404f-990f-e45734466ae2",
     "name": "Astrid D’Eredita",
     "head_shot": "coach-head-shots/9f5ed69483f8cc1bda67f2f58f20d5f30076023b/Foto Astrid DEredita.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "0d29085f-f218-43de-b397-deae10a7eeb4",
-    "name": "Duygu Cebiroglu",
-    "head_shot": "coach-head-shots/a7ad3dcc29ae770caa369466094b6f47cb54d159/Duygu Cebiroglu .jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "f15b5c27-0d59-4a3e-bee5-55e7d61c447a",
-    "name": "David Oesinghaus",
-    "head_shot": "coach-head-shots/89cefef4ed9f22a97fb9eac0453e7c42eafdf1a0/David Oesinghaus.JPG",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "ad7fff24-139f-485e-84af-9f5c8a7f20fa",
-    "name": "Claudia Gretschmann",
-    "head_shot": "coach-head-shots/336bcb8ce738146ead19263ab30c6acbaaf87d9d/Claudia Gretschmann.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "49ca4e22-5767-40bf-8ea2-48fc1ee56fdc",
-    "name": "Cindy Luna Hoffmann",
-    "head_shot": "coach-head-shots/6a163179a37c4429c68a73d753c69d2003a5af43/Cindy Iuna Hoffmann.jpeg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "16ef1624-2848-47df-b016-c77ef29684c5",
-    "name": "Lisa Jessen",
-    "head_shot": "coach-head-shots/0faa74f7616d9a1b38dcba0f77b00b60d8ea57e2/Lisa Jessen.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "661eae52-89be-4287-bee0-598656d429a7",
-    "name": "Maria Courmont",
-    "head_shot": "coach-head-shots/9d1b4c7be576fa4bafb17813244c4e7d0f77cd5a/Maria Courmont.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "234cbd20-fead-4e78-bd26-6b60b0ba63fd",
-    "name": "Mozamel Aman",
-    "head_shot": "coach-head-shots/7be6e0d4307344bedd3fe8a8ca7327b0d8685fa7/Mozamel Aman.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "e0de5f79-eaf6-43e2-a68e-d258b4deab84",
-    "name": "Sergio Cardeal",
-    "head_shot": "coach-head-shots/0f832d506892bc6b4bae230dedcc938ed368aac8/Sergio Cardeal.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "09f97e75-794f-45f8-9c3a-1765ab9ce549",
-    "name": "Yasmin Menke",
-    "head_shot": "coach-head-shots/7b2b3306549968985b0c4363b7cdd11247d9256e/Yasmin Menke.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "194506c6-9450-40e8-88f2-f488c9146265",
-    "name": "Sophie Peschel",
-    "head_shot": "coach-head-shots/140251c297c09d94091ea360419b4711f182f194/Sophie Peschel.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "ab0c236a-7185-4f3c-9af5-aa8b76aedaa9",
-    "name": "Shmaila Iqbal",
-    "head_shot": "coach-head-shots/ef6b0287330f0dd86fd15f8cefca999287951ca6/Shmaila Iqbal.jpeg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "0541ec8c-ccbf-4982-a954-73f2139b0da7",
-    "name": "Shapour Amir",
-    "head_shot": "coach-head-shots/3a1be687cd932b316723d058730e07fbf3012bbc/Shapour Amir .jpg",
     "head_shot_height": 400,
     "head_shot_width": 400
   },
@@ -605,6 +507,90 @@
     "id": "59e5722f-00f2-4fa4-9183-5ef3df2d42ba",
     "name": "Irune Gonzalez",
     "head_shot": "coach-head-shots/7ded558180b829dc125f946a93c7aac0d4226f7e/Irune-Gonzalez.jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "f15b5c27-0d59-4a3e-bee5-55e7d61c447a",
+    "name": "David Oesinghaus",
+    "head_shot": "coach-head-shots/89cefef4ed9f22a97fb9eac0453e7c42eafdf1a0/David Oesinghaus.JPG",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "e0de5f79-eaf6-43e2-a68e-d258b4deab84",
+    "name": "Sergio Cardeal",
+    "head_shot": "coach-head-shots/0f832d506892bc6b4bae230dedcc938ed368aac8/Sergio Cardeal.jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "0d29085f-f218-43de-b397-deae10a7eeb4",
+    "name": "Duygu Cebiroglu",
+    "head_shot": "coach-head-shots/a7ad3dcc29ae770caa369466094b6f47cb54d159/Duygu Cebiroglu .jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "661eae52-89be-4287-bee0-598656d429a7",
+    "name": "Maria Courmont",
+    "head_shot": "coach-head-shots/9d1b4c7be576fa4bafb17813244c4e7d0f77cd5a/Maria Courmont.jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "234cbd20-fead-4e78-bd26-6b60b0ba63fd",
+    "name": "Mozamel Aman",
+    "head_shot": "coach-head-shots/7be6e0d4307344bedd3fe8a8ca7327b0d8685fa7/Mozamel Aman.jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "16ef1624-2848-47df-b016-c77ef29684c5",
+    "name": "Lisa Jessen",
+    "head_shot": "coach-head-shots/0faa74f7616d9a1b38dcba0f77b00b60d8ea57e2/Lisa Jessen.jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "73c59d3d-f893-41e9-8edc-92aaa7c4ff0c",
+    "name": "Maja Porath",
+    "head_shot": "coach-head-shots/002c68707f85f30b665f77e37565a41a590493cd/Screen Shot 2018-11-23 at 15.16.40.png",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "3d696672-f46a-4a2c-a1ae-8157e48549a8",
+    "name": "Nicolas Maiwald",
+    "head_shot": "coach-head-shots/0a89524753b6842c8e6cd6a248ebb3e5e7453d1e/Screen Shot 2018-11-23 at 15.19.20.jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "0541ec8c-ccbf-4982-a954-73f2139b0da7",
+    "name": "Shapour Amir",
+    "head_shot": "coach-head-shots/3a1be687cd932b316723d058730e07fbf3012bbc/Shapour Amir .jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "ab0c236a-7185-4f3c-9af5-aa8b76aedaa9",
+    "name": "Shmaila Iqbal",
+    "head_shot": "coach-head-shots/ef6b0287330f0dd86fd15f8cefca999287951ca6/Shmaila Iqbal.jpeg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "194506c6-9450-40e8-88f2-f488c9146265",
+    "name": "Sophie Peschel",
+    "head_shot": "coach-head-shots/140251c297c09d94091ea360419b4711f182f194/Sophie Peschel.jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "09f97e75-794f-45f8-9c3a-1765ab9ce549",
+    "name": "Yasmin Menke",
+    "head_shot": "coach-head-shots/7b2b3306549968985b0c4363b7cdd11247d9256e/Yasmin Menke.jpg",
     "head_shot_height": 400,
     "head_shot_width": 400
   },
@@ -668,13 +654,6 @@
     "id": "4581e1ea-2d67-404e-bc6a-cca62ca941dc",
     "name": "Ellie Jennings",
     "head_shot": "coach-head-shots/47508250d70d596df137d9f4fbabec689c59e7de/Ellie Jennings.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "d9ac5cee-7150-4cfe-a478-8e3608bdbba7",
-    "name": "George Styers",
-    "head_shot": "coach-head-shots/a5f5d0d9e055dbc68d0d3153405148dabf9d20aa/George Styers.jpg",
     "head_shot_height": 400,
     "head_shot_width": 400
   },
@@ -1274,20 +1253,6 @@
     "head_shot_width": 400
   },
   {
-    "id": "54f8ffbb-9b7e-4091-a2ef-33266262eb43",
-    "name": "Gema Senen",
-    "head_shot": "coach-head-shots/95ea41bf3d4b3bafd9de487813e16052161c8389/Gema_Senen_G12.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "d24f52fe-ee86-4009-9ca9-fcfdd321f35c",
-    "name": "Aberto Conesa",
-    "head_shot": "coach-head-shots/d9e5fee68f8b7f1449ba9e548cd1721ecf68cb82/Aberto_Conesa_G12.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
     "id": "3d1c2e00-021d-4d8a-ad9e-5298dc995667",
     "name": "Eliseo Caballero",
     "head_shot": "coach-head-shots/e536f04f1399a00472bdaeae800a715b1753930c/IMG-20190321-WA0003.jpg",
@@ -1356,13 +1321,6 @@
     "head_shot": "coach-head-shots/d5419c759ede77b0c936667291c0a1b3c1a5d315/Alba_Bailon_ciberv_trainer_p.jpg",
     "head_shot_height": 493,
     "head_shot_width": 480
-  },
-  {
-    "id": "4d02589e-bc97-4652-b62d-2142c82b7ccf",
-    "name": "Tamara Ramos",
-    "head_shot": "coach-head-shots/b058c2f55428c09b25e5d6242e50b4b0af9cc841/Tamara_Ramos_ciberv_trainer_p.jpg",
-    "head_shot_height": 336,
-    "head_shot_width": 376
   },
   {
     "id": "be7af832-6447-4c2e-b2e8-e2c68c3b6e18",
@@ -1554,13 +1512,6 @@
     "head_shot_width": 400
   },
   {
-    "id": "5fff274e-adbb-4948-bbb8-8aea4b883cee",
-    "name": "Donna Powell",
-    "head_shot": "coach-head-shots/19639d4924fac387e1374b54bb7e028aa1928b8c/Donna_Powell.jpeg",
-    "head_shot_height": 400,
-    "head_shot_width": 389
-  },
-  {
     "id": "a81b3993-598e-42fe-b730-a869455fbbac",
     "name": "Annie Gilbert",
     "head_shot": "coach-head-shots/fba8bd70d206ec947d97cc0e2c885accee3b0e61/Annie_Gilbert.jpg",
@@ -1711,6 +1662,370 @@
     "id": "626ff63e-1226-48fb-b6ae-7d29b607ec64",
     "name": "Térence Ferut",
     "head_shot": "coach-head-shots/c8945f3c79ab8701340a838c268c4d0729e8f68b/Térence_FERUT.JPG",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "b5071790-5d6c-4c60-845a-9b21d24f1426",
+    "name": "Sooz Young",
+    "head_shot": "coach-head-shots/fe3158f52f65d89ef0d5f3ba01dd0cd4f2bf7c0b/Sooz_Young.jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "79d19d5f-1605-43c0-80c8-22ed8cf2eb43",
+    "name": "Adam Papworth",
+    "head_shot": "coach-head-shots/9b4acb642ed9c61b2a80ffa618bd2fabc4503b3a/Papworth_Head_Shot_1.jpg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "110ef6e1-7730-4879-b6da-2808cb77ec2a",
+    "name": "Patrick Cutliffe",
+    "head_shot": "coach-head-shots/de242975249f0aeee9d2975ffffb5d836da29918/Patrick_Cutliffe_WJGlsge.jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "6c748166-ab82-4f0c-ac64-47e1ca679ff2",
+    "name": "Donna Powell",
+    "head_shot": "coach-head-shots/19639d4924fac387e1374b54bb7e028aa1928b8c/Donna_Powell_GI8OnOR.jpeg",
+    "head_shot_height": 500,
+    "head_shot_width": 486
+  },
+  {
+    "id": "8b9e8acd-48ef-4b70-963e-a37f97a377b3",
+    "name": "Libby Langley",
+    "head_shot": "coach-head-shots/8a8def5be15ea9aa8a2ec651a2f4262b8705d2a8/Libby_Langley.jpg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "e96b05aa-6225-4c8b-801b-4a8939973f4b",
+    "name": "Lina Poka",
+    "head_shot": "coach-head-shots/38d08f496bd9573590de9f39839e5ccf8dc68b5e/Lina_Poka.jpeg",
+    "head_shot_height": 480,
+    "head_shot_width": 480
+  },
+  {
+    "id": "3e453f25-a463-43af-be9c-e013e36945c6",
+    "name": "John Daniels",
+    "head_shot": "coach-head-shots/0aacc2b90be5a73ead850c6e08587bda2ca1fdab/John_Daniels.jpeg",
+    "head_shot_height": 480,
+    "head_shot_width": 480
+  },
+  {
+    "id": "1e24cb5c-414d-433a-b5d7-2ae427d2290b",
+    "name": "Ankita Narayan",
+    "head_shot": "coach-head-shots/4242e042d79d6e539a5edd313e14a23ff89ba544/Ankita_Narayan_.jpeg",
+    "head_shot_height": 480,
+    "head_shot_width": 480
+  },
+  {
+    "id": "3f6b74a0-9c4d-424f-a5a1-74af1b7ce5a5",
+    "name": "Varsha Amin",
+    "head_shot": "coach-head-shots/d07307528718024668aa1ea143ff46144b245bdc/Varsha_Amin_headshot.jpeg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "82faad61-61d8-4601-98ba-631432af77c7",
+    "name": "Howie Pearson",
+    "head_shot": "coach-head-shots/1efda468fc64c4fd5c0724c3a4d25499eccffe96/Howie_Pearson.jpg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "8d13ddba-def8-4462-9599-2351504b1307",
+    "name": "David",
+    "head_shot": "coach-head-shots/d27937f914ebe99ee315f04449678eccfb658191/Trainer_Pics_2.png",
+    "head_shot_height": 359,
+    "head_shot_width": 359
+  },
+  {
+    "id": "63e9fb0a-d910-40a2-bb4f-29d924ebc61d",
+    "name": "Craig McPhee",
+    "head_shot": "coach-head-shots/086f9a4a46b9f1241e011bc89e222655bd975857/Craig_Pic_1_jv0azgS.jpg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "10b98d04-8d97-4074-9b6b-a9658235093b",
+    "name": "Henri",
+    "head_shot": "coach-head-shots/d5128f152bf9ac2a93444247a681ac9ab13f4a75/7.jpg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "11722533-345d-4d2d-bd10-f106587f671d",
+    "name": "Gosia",
+    "head_shot": "coach-head-shots/4a3cd06182c0bd39ffaea76a774e72adb73ff15c/Małgorzata-Moszyk.png",
+    "head_shot_height": 324,
+    "head_shot_width": 324
+  },
+  {
+    "id": "69b19dc4-4c23-45b7-945b-480c0fcdfb23",
+    "name": "Annemieke",
+    "head_shot": "coach-head-shots/35a2839b135db0ce1666aa8382273fcdf23c4823/Annemieke-Frank.png",
+    "head_shot_height": 360,
+    "head_shot_width": 353
+  },
+  {
+    "id": "1c7d723a-38a7-4fcf-84de-73d87b2f10b0",
+    "name": "Florian",
+    "head_shot": "coach-head-shots/79e34f199bb6b8916d4f055106ac29017070f654/Florian-Frank.png",
+    "head_shot_height": 343,
+    "head_shot_width": 344
+  },
+  {
+    "id": "4d801ba0-92de-4b57-b706-e1156698e884",
+    "name": "Ian Farrar",
+    "head_shot": "coach-head-shots/b0e5523d37882ce80ff4b44ed75bea7e26bfcc74/Ian_Farrar.jpg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "b2b12337-3be3-47dc-8208-0de7fa9ef2dd",
+    "name": "Sam Lyons",
+    "head_shot": "coach-head-shots/53d856ab4c846e7c9efb4e55a40b360220c8bc2d/Sam_Lyons_copy.jpg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "b4aa47e7-be1e-4adc-9cbb-33ece6b9063c",
+    "name": "Sergio Medina",
+    "head_shot": "coach-head-shots/81bb8eb6c3b40a6aa59a966fa3ec0971220ff214/Sergio_Medina_Foto.png",
+    "head_shot_height": 341,
+    "head_shot_width": 512
+  },
+  {
+    "id": "b0997b6b-c476-4b85-821f-99df286408f3",
+    "name": "Nico",
+    "head_shot": "coach-head-shots/3398634ce832346f0eaba574c18077083b0c4e1a/Trainer_Pics_3.png",
+    "head_shot_height": 350,
+    "head_shot_width": 350
+  },
+  {
+    "id": "7ee4abda-7af1-4dcb-998e-944ea2fe3401",
+    "name": "Nico",
+    "head_shot": "coach-head-shots/3398634ce832346f0eaba574c18077083b0c4e1a/Trainer_Pics_3_ubt6SAF.png",
+    "head_shot_height": 350,
+    "head_shot_width": 350
+  },
+  {
+    "id": "4f7c2d8c-8662-4dc5-8f1a-57d6126aae96",
+    "name": "Blake",
+    "head_shot": "coach-head-shots/c1f46abc7143152be1b47bd8588def6b7538ff92/6.jpg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "343af694-7b43-4adc-855b-46a5515e6462",
+    "name": "Tobias",
+    "head_shot": "coach-head-shots/7a82d862eab02a23c676d2a046f454aac3b6bbdf/Trainer_Pics_4.png",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "f41eea21-98b1-4ecb-8bc1-47bcc4e8eb66",
+    "name": "Frederic Ribes",
+    "head_shot": "coach-head-shots/cc78e652d5b15f0180d1d7879031df3ac55c87f7/Digitalchimist.jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "c86ef5b3-1190-4504-8597-ae944821583d",
+    "name": "Nelly Moffet",
+    "head_shot": "coach-head-shots/bd2b109bfb83b015f2ed34e00dbe15b27fe3929f/nelly_2018.jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "9a3fb8ab-22c8-45c7-b37d-eabfb27fe551",
+    "name": "Suzie Smith",
+    "head_shot": "coach-head-shots/34c9b2549337d39138560e39ac743278e1a39506/Suzie_Smith.jpg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "de892230-0282-470e-8cd9-b4b87561aa3d",
+    "name": "Ian Graham",
+    "head_shot": "coach-head-shots/babcacf517c68d8229afec09736d5e2ab44911c8/Ian_Graham_Swayed_Greyhound_1_Snzc7p5.jpg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "bbf1d603-0925-4911-81b1-fb888b7fa64d",
+    "name": "Sam Lyons",
+    "head_shot": "coach-head-shots/53d856ab4c846e7c9efb4e55a40b360220c8bc2d/Sam_Lyons_copy_SEpql5i.jpg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "d5fac311-39b8-4462-8e4d-14f991a8646a",
+    "name": "Kenny Henderson",
+    "head_shot": "coach-head-shots/5c6df6e1287f27a1487d5b0f59b4641557de0364/Kenny_Henderson.jpeg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "1d49767b-ecca-4565-9f6c-c6e181cdd5c2",
+    "name": "Louis Henderson",
+    "head_shot": "coach-head-shots/fc383b7afebfbcfc77fe57ebea737145e381f6cf/Louis_Henderson.jpg",
+    "head_shot_height": 500,
+    "head_shot_width": 500
+  },
+  {
+    "id": "dc293e98-5184-4331-86d1-547e03507304",
+    "name": "Hendrik",
+    "head_shot": "coach-head-shots/225a686609a8c323b53b03d94e567a5001c28136/Bildschirmfoto_2019-07-19_um_07.45.30.png",
+    "head_shot_height": 366,
+    "head_shot_width": 365
+  },
+  {
+    "id": "ca63368d-22d3-4fbd-bcea-65283fcc1696",
+    "name": "Hendrik",
+    "head_shot": "coach-head-shots/225a686609a8c323b53b03d94e567a5001c28136/Bildschirmfoto_2019-07-19_um_0_cXk6g07.png",
+    "head_shot_height": 366,
+    "head_shot_width": 365
+  },
+  {
+    "id": "2273247b-cb9a-4a9c-bfab-13594d58fcc2",
+    "name": "Tobias",
+    "head_shot": "coach-head-shots/7a82d862eab02a23c676d2a046f454aac3b6bbdf/Bildschirmfoto_2019-07-19_um_07.51.34.png",
+    "head_shot_height": 330,
+    "head_shot_width": 329
+  },
+  {
+    "id": "5680520d-2bd6-4d46-af55-40145771e26c",
+    "name": "Patrick",
+    "head_shot": "coach-head-shots/57ad79649b677cf8f889ba6dc5fb4f98ada2767e/Bildschirmfoto_2019-07-22_um_10.38.17.png",
+    "head_shot_height": 283,
+    "head_shot_width": 281
+  },
+  {
+    "id": "d4ab74df-dbfa-4b5e-a470-04dbe9d51738",
+    "name": "Patrick",
+    "head_shot": "coach-head-shots/57ad79649b677cf8f889ba6dc5fb4f98ada2767e/Bildschirmfoto_2019-07-22_um_1_2UrEZ4k.png",
+    "head_shot_height": 283,
+    "head_shot_width": 281
+  },
+  {
+    "id": "3c0fd44b-1798-4460-9779-98b1d7c487fb",
+    "name": "Jose Carlos",
+    "head_shot": "coach-head-shots/6d7861f8905c522ad1c8b362eb4060d86cd6ee10/JCM_Teachsurfer.jpg",
+    "head_shot_height": 848,
+    "head_shot_width": 969
+  },
+  {
+    "id": "40a6cc1f-2889-40bf-8df1-95326391f46e",
+    "name": "Khaled",
+    "head_shot": "coach-head-shots/087124957853a98fcfd67fee2730e5a11b5d9523/Bildschirmfoto_2019-07-26_um_13.16.46.png",
+    "head_shot_height": 217,
+    "head_shot_width": 244
+  },
+  {
+    "id": "40dbe3d4-e6ea-4d62-ba6d-e0ad58984790",
+    "name": "Malte",
+    "head_shot": "coach-head-shots/f47920a884a6997fb7aa5cffc139599d4f390a4d/headshot.jpg",
+    "head_shot_height": 953,
+    "head_shot_width": 950
+  },
+  {
+    "id": "b80ba820-8e31-4fad-a02b-9ba39ae7efff",
+    "name": "Matt",
+    "head_shot": "coach-head-shots/0f9fe690f38da67968280971584cf9c16541f07b/Bildschirmfoto_2019-07-31_um_07.01.02.png",
+    "head_shot_height": 297,
+    "head_shot_width": 300
+  },
+  {
+    "id": "36b0a887-ceec-4486-8628-69192bdb19ea",
+    "name": "Florian",
+    "head_shot": "coach-head-shots/eafc8bd05a0435ef14d31bbff29687dd7b71c3ca/Bildschirmfoto_2019-07-31_um_10.27.12.png",
+    "head_shot_height": 288,
+    "head_shot_width": 288
+  },
+  {
+    "id": "b2fb3ae9-ed01-4c4e-a745-f56db090b806",
+    "name": "Robert",
+    "head_shot": "coach-head-shots/b7f73c5b66dca06b94aa7a7134c24e0159e1dd0a/Bildschirmfoto_2019-08-02_um_08.16.53.png",
+    "head_shot_height": 342,
+    "head_shot_width": 374
+  },
+  {
+    "id": "1b8136a3-58c9-4e1d-801b-1932978a057a",
+    "name": "Robert",
+    "head_shot": "coach-head-shots/b7f73c5b66dca06b94aa7a7134c24e0159e1dd0a/Bildschirmfoto_2019-08-02_um_0_FD8bXRa.png",
+    "head_shot_height": 342,
+    "head_shot_width": 374
+  },
+  {
+    "id": "e2422733-3c89-42f4-8316-9a4bd298d05b",
+    "name": "Paulina",
+    "head_shot": "coach-head-shots/a9aedaa3ae066cebeb5475fb4a100bc534e38402/Bildschirmfoto_2019-08-03_um_14.03.24.png",
+    "head_shot_height": 266,
+    "head_shot_width": 268
+  },
+  {
+    "id": "d14d26bb-09e8-4a1f-b260-125d1f2d53cd",
+    "name": "Paulina",
+    "head_shot": "coach-head-shots/a9aedaa3ae066cebeb5475fb4a100bc534e38402/Bildschirmfoto_2019-08-03_um_1_ApjRiRa.png",
+    "head_shot_height": 266,
+    "head_shot_width": 268
+  },
+  {
+    "id": "fd1bb1ac-8649-4d7c-82f5-63cc20ba97d1",
+    "name": "Natalia Touriño",
+    "head_shot": "coach-head-shots/1a1ad1467410ebcfe0fd1a4763e0fb2ffeeb0c5a/Natalia_Touriño.jpg",
+    "head_shot_height": 448,
+    "head_shot_width": 336
+  },
+  {
+    "id": "66a92500-b752-4301-9d0f-bf18344b3c7a",
+    "name": "Anh",
+    "head_shot": "coach-head-shots/258c4e653cbb9d5580da2e575814c56e1c6fe4fc/Bildschirmfoto_2019-08-29_um_16.17.19.png",
+    "head_shot_height": 327,
+    "head_shot_width": 311
+  },
+  {
+    "id": "e4936ecf-8d8f-4d7c-bbd0-0d85f02cb423",
+    "name": "Hendrik",
+    "head_shot": "coach-head-shots/225a686609a8c323b53b03d94e567a5001c28136/Bildschirmfoto_2019-08-29_um_16.18.14.png",
+    "head_shot_height": 286,
+    "head_shot_width": 295
+  },
+  {
+    "id": "dfcd8bff-89c1-42e6-90db-f3dd38b9b320",
+    "name": "Hendrik",
+    "head_shot": "coach-head-shots/225a686609a8c323b53b03d94e567a5001c28136/Bildschirmfoto_2019-08-29_um_1_E8eFsnN.png",
+    "head_shot_height": 286,
+    "head_shot_width": 295
+  },
+  {
+    "id": "a431139f-9a00-409e-89ad-660e88199822",
+    "name": "Leiv",
+    "head_shot": "coach-head-shots/b50a9ba2f95e6504ef2b3e0aee469700ba8ad63b/Bildschirmfoto_2019-08-29_um_16.26.59.png",
+    "head_shot_height": 335,
+    "head_shot_width": 326
+  },
+  {
+    "id": "a352ce1c-2e1b-4e80-9ea6-867d88610a75",
+    "name": "Irfan Hashmi",
+    "head_shot": "coach-head-shots/c7d38019278d95de0d095646ef68b7765e9e4f72/irfan.jpg",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "52663419-e171-4091-9416-064578405043",
+    "name": "Kamran Khan",
+    "head_shot": "coach-head-shots/e14190fc6298ff0d7198401bf9b9c26ab14d9510/Kamran_headshot.png",
+    "head_shot_height": 400,
+    "head_shot_width": 400
+  },
+  {
+    "id": "f95af7e4-ed0c-4b4a-a29a-594e68b91046",
+    "name": "Francis Milligan",
+    "head_shot": "coach-head-shots/2439241c0da31c4cefa94b5d054a38624d9a9cdd/Trainer_Images.png",
     "head_shot_height": 400,
     "head_shot_width": 400
   }
