@@ -602,20 +602,6 @@
     "head_shot_width": 400
   },
   {
-    "id": "3b7f1728-0a4c-44a3-a31f-84830a0b8444",
-    "name": "A. N. Other",
-    "head_shot": "coach-head-shots/3d4e8fc6514ba924e9f94c5ac65e6becd4115b6d/icons-color.png",
-    "head_shot_height": 291,
-    "head_shot_width": 281
-  },
-  {
-    "id": "3eefa35c-a82c-4427-95d2-a74238e2c723",
-    "name": "A. N. Other",
-    "head_shot": "coach-head-shots/3d4e8fc6514ba924e9f94c5ac65e6becd4115b6d/icons-color_sKUNgaW.png",
-    "head_shot_height": 291,
-    "head_shot_width": 281
-  },
-  {
     "id": "6df3de50-25d7-4cad-b516-0dde6176d312",
     "name": "Kamil Mrozek",
     "head_shot": "coach-head-shots/83170942458cf7d217b15095ada1cf516515e9ca/Kamil Mrozek_vdlMMlS.jpg",
@@ -822,13 +808,6 @@
     "id": "79d3a08a-357d-4f1b-af4e-0acacdfbce76",
     "name": "Gilliane Borg",
     "head_shot": "coach-head-shots/2a6efead24304d8e5526ec4b334edf9f9239e2f1/Image from iOS.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "237736e6-157e-466f-a382-663afefffc79",
-    "name": "Youssef Laouedj",
-    "head_shot": "coach-head-shots/4365b9e80befbb86b0547853af26526ab64be469/simplon-300x215.jpg",
     "head_shot_height": 400,
     "head_shot_width": 400
   },
@@ -1074,27 +1053,6 @@
     "id": "8b334c88-08b3-4c82-943b-8d89d0a5daed",
     "name": "Samuel Girardeau",
     "head_shot": "coach-head-shots/8e23c0feb54f9662d2cd0c9e538f0ba2c3f221b2/Samuel Girardeau - AFEV.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "7586114c-60ff-40db-849d-d0e7f956e783",
-    "name": "Soufiane Rouass",
-    "head_shot": "coach-head-shots/2b865b09b241a1ebea72f8e5588b98c02d188da8/simplon.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "d0f83263-4f8e-455e-8fcd-08ba5f89b563",
-    "name": "Marina von Rosenschild",
-    "head_shot": "coach-head-shots/46d9dfe72beb23505310634fc188d271ff9ed2cd/simplon.jpg",
-    "head_shot_height": 400,
-    "head_shot_width": 400
-  },
-  {
-    "id": "0bc20af0-a416-45cd-bfaa-1a0813fa5570",
-    "name": "Ousseynou Gueye",
-    "head_shot": "coach-head-shots/9260d7355a31b1074d5d863a7367872ffab802ba/simplon.jpg",
     "head_shot_height": 400,
     "head_shot_width": 400
   },
